@@ -7,7 +7,7 @@
 
 ## Установка
 1. Скачать [последнюю версию](https://github.com/ParusPmo/KOR-Classes-VCS-Export/releases/latest);
-2. Выполнить скрипт KOR-Classes-VCS-Export-Install.sql под владельцем схемы Парус-8;
+2. Выполнить скрипт `KOR-Classes-VCS-Export-Install.sql` под владельцем схемы Парус-8;
 3. В КОР для класса «DMSClasses» («Классы»):
   1. Добавить метод:
 ```toml
